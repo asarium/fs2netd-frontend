@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "system",
+    "sourceMap": true,
+    "jsx": "react",
+    "isolatedModules": false,
+    "declaration": false,
+    "noLib": false
+  },
+  "exclude": [
+    "jspm_packages"
+  ]
+}

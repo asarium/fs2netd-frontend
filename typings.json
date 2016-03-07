@@ -1,0 +1,14 @@
+{
+  "name": "fs2netd-frontend",
+  "devDependencies": {},
+  "ambientDependencies": {
+    "isomorphic-fetch": "github:DefinitelyTyped/DefinitelyTyped/isomorphic-fetch/isomorphic-fetch.d.ts#83a71a28177843c3a65587588c5fc37ef193a75f",
+    "react": "github:DefinitelyTyped/DefinitelyTyped/react/react.d.ts#945ebfe049964e429c2530971b9081f3c0f611df",
+    "react-dom": "github:DefinitelyTyped/DefinitelyTyped/react/react-dom.d.ts#ca5bfe76d2d9bf6852cbc712d9f3e0047c93486e"
+  },
+  "dependencies": {
+    "react-redux": "github:andrew-w-ross/typings-react-redux#6be88a57427f8ec220cad13d68565fd5f5711146",
+    "redux": "github:andrew-w-ross/typings-redux#2e0b57e18c6240d17fde045573d74e649762437b",
+    "redux-thunk": "github:andrew-w-ross/typings-redux-thunk#11edd7b7e5add9721b60bcf6994e814b0eeaa3f6"
+  }
+}
